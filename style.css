@@ -1,0 +1,51 @@
+h1, h2 {
+    text-align: center;
+}
+
+.p-red {
+    color: red;
+}
+
+.p-blue {
+    color: blue;
+}
+
+.p-green {
+    color: green;
+}
+
+.p-big {
+    font-size: 30px;
+}
+
+.p-tiny {
+    font-size: 12px;
+}
+
+.p-center {
+    text-align: center;
+}
+
+.p-bold {
+    font-weight: bold;
+}
+
+.p-mono {
+    font-family: monospace;
+}
+
+.p-multiple {
+    color: orange;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.styledFont {
+    color: blueviolet;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 18px;
+}
+
+#styledImage {
+    border: 3px solid red;
+}
